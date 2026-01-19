@@ -1,0 +1,22 @@
+{
+  "New functional component": {
+    "prefix": ["newFunctionalComponent"],
+    "body": [
+      "import React from 'react';",
+      "import styled from 'styled-components';",
+      "",
+      "interface $1Props {}",
+      "",
+      "export default function $1(props: $1Props) {",
+      "  return (",
+      "    $0",
+      "  );",
+      "};",
+      ""
+    ]
+  },
+  "styled component theme shortcut": {
+    "prefix": "st",
+    "body": "${p => p.theme.$0};"
+  }
+}
