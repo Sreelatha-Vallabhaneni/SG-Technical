@@ -70,3 +70,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## Feedback:
+
+I really enjoyed the assignment, especially the focus on scalability rather than just visual output. It felt close to a real production scenario, which I appreciated. The task was clear and well scoped, and It created the perfect opportunity to demonstrate both problem-solving abilities and thoughtful code quality decisions.
+
+Time spent:
+Approximately 7-10 hours.
